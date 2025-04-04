@@ -1,11 +1,17 @@
 # 👋 Hi, I'm Georgi Doykov!
 
 💻 **Aspiring Software Developer**   
+## About Me
+
+I'm passionate about programming, technology, and mathematics. Currently, my main focus is on **Web Development** using **React** and **Tailwind CSS**. I'm also diving into the world of **statistics** and **machine learning** to broaden my skill set.
+
+Feel free to connect with me and collaborate on exciting projects!
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&link=)
+![.NET](https://img.shields.io/badge/.NET-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=)
@@ -15,6 +21,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&link=)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23239120.svg?style=for-the-badge&logo=entity-framework&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-%23000000.svg?style=for-the-badge&logo=aspnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%230E4B77.svg?style=for-the-badge&logo=aspnet&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-5C5C5C.svg?style=for-the-badge&logo=nunit&logoColor=white)

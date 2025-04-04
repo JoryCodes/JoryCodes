@@ -3,7 +3,7 @@
 💻 **Aspiring Software Developer**   
 ## About Me
 
-I'm passionate about programming, technology, and mathematics. Currently, my main focus is on **Web Development** using **React** and **Tailwind CSS**. I'm also diving into the world of **statistics** and **machine learning** to broaden my skill set.
+I'm passionate about programming, technology, and mathematics. Currently, my main focus is on **Web Development** with **React** and **Tailwind CSS**. I'm also diving into **statistics** and **machine learning** to broaden my skill set and prepare for the future of tech.
 
 Feel free to connect with me and collaborate on exciting projects!
 

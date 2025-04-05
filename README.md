@@ -27,5 +27,6 @@ Feel free to connect with me and collaborate on exciting projects!
 ![MVC](https://img.shields.io/badge/MVC-%23000000.svg?style=for-the-badge&logo=aspnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%230E4B77.svg?style=for-the-badge&logo=aspnet&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-5C5C5C.svg?style=for-the-badge&logo=nunit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

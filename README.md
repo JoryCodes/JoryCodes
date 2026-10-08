@@ -7,8 +7,6 @@ I'm passionate about programming and mathematics.
 ---
 
 ## Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&link=)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&link=)
 ![.NET](https://img.shields.io/badge/.NET-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23239120.svg?style=for-the-badge&logo=entity-framework&logoColor=white)

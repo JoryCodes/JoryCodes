@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm passionate about programming and mathematics. Currently, my main focus is on **Web Development**.
+I'm passionate about programming and mathematics.
 
 ---
 
